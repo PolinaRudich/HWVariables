@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\HWVariables\HWVariables\bin\Debug\net5.0\HWVariables.exe
+C:\Users\Asus\source\repos\HWVariables\HWVariables\bin\Debug\net5.0\HWVariables.deps.json
+C:\Users\Asus\source\repos\HWVariables\HWVariables\bin\Debug\net5.0\HWVariables.runtimeconfig.json
+C:\Users\Asus\source\repos\HWVariables\HWVariables\bin\Debug\net5.0\HWVariables.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\HWVariables\HWVariables\bin\Debug\net5.0\HWVariables.dll
+C:\Users\Asus\source\repos\HWVariables\HWVariables\bin\Debug\net5.0\ref\HWVariables.dll
+C:\Users\Asus\source\repos\HWVariables\HWVariables\bin\Debug\net5.0\HWVariables.pdb
+C:\Users\Asus\source\repos\HWVariables\HWVariables\obj\Debug\net5.0\HWVariables.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\HWVariables\HWVariables\obj\Debug\net5.0\HWVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\HWVariables\HWVariables\obj\Debug\net5.0\HWVariables.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\HWVariables\HWVariables\obj\Debug\net5.0\HWVariables.AssemblyInfo.cs
+C:\Users\Asus\source\repos\HWVariables\HWVariables\obj\Debug\net5.0\HWVariables.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\HWVariables\HWVariables\obj\Debug\net5.0\HWVariables.dll
+C:\Users\Asus\source\repos\HWVariables\HWVariables\obj\Debug\net5.0\ref\HWVariables.dll
+C:\Users\Asus\source\repos\HWVariables\HWVariables\obj\Debug\net5.0\HWVariables.pdb
+C:\Users\Asus\source\repos\HWVariables\HWVariables\obj\Debug\net5.0\HWVariables.genruntimeconfig.cache
